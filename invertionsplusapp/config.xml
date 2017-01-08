@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.invertionsplus.invertionsplusapp"
+    version   = "1.0.0">
+
+<name>InvertionsPlusapp</name>
+
+<description>
+Invertions Plus App ofrece cursos de formación, amplia oferta formativa a inversores en bolsa de valores</description>
+
+<author href="https://www.invertionsplus.com/" email="informaticoinvertionsplus2@gmail.com">
+Iván Madrid
+</author>
+
+</widget>
